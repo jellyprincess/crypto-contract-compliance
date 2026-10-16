@@ -1,4 +1,4 @@
-# crypto-contract-compliance
+# Crypto Contract Compliance
 
 A Claude skill that reviews crypto contracts for compliance problems. I built it while reviewing token deals at work. General contract-review skills aren't built for crypto, and Claude on its own often missed what a token deal needed, so I wrote down what a good review has to cover and turned it into a skill that anyone on the team can run.
 
